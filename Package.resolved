@@ -1,0 +1,24 @@
+{
+  "originHash" : "a7d58702c59b40e36cf53bfbf75b9d27a340a80feb58fb5d3adb0a0cc303a9f6",
+  "pins" : [
+    {
+      "identity" : "foundation-enespanol",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jeremyabannister/Foundation-enEspanol",
+      "state" : {
+        "revision" : "3e0f933f70d4f438ab5cc607b6531a51652e0578",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "swift-enespanol",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jeremyabannister/Swift-enEspanol",
+      "state" : {
+        "revision" : "26826302bf22bfd056943767237b4efb4ec88a82",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
